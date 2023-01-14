@@ -4,9 +4,9 @@ Starting boilerplate of [Strapi](https://strapi.io/) application
 
 ## System requirements
 
-* NodeJS >= 18
-* NPM >= 6.x
-* Make
+- NodeJS >= 18
+- NPM >= 6.x
+- Make
 
 ## Using
 
@@ -28,6 +28,10 @@ make lint
 ```
 
 ---
+
+### Github action status:
+
+![ci](https://github.com/Activx-nV/hexlet-ci-app/actions/workflows/ci.yml/badge.svg)
 
 [![Hexlet Ltd. logo](https://raw.githubusercontent.com/Hexlet/assets/master/images/hexlet_logo128.png)](https://hexlet.io/?utm_source=github&utm_medium=link&utm_campaign=hexlet-ci-app)
 
